@@ -43,3 +43,33 @@ function main() {
 }
 
 main();
+
+
+//QUESTION
+
+// 22. Write a program to add the values of two 2D arrays
+// Program should contains 3 functions including the main function
+// main()
+// Call function getArray()
+// Call function addArray()
+// Call function displayArray()
+// 		getArray()
+// Get values to the array
+// 		getArray()
+// Add array 1 and array 2
+// 		displayArray()
+// Display the array values
+
+// Eg:
+// Enter the size of array
+// 2
+// Enter the values of array 1
+// 1	2
+// 3	4
+// Enter the values of array 2
+// 5	6
+// 7	8
+// Output:
+// Sum of array 1 and array 2:
+// 6	8
+// 10	12
